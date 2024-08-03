@@ -13,9 +13,12 @@ Olá! Sou estudante de Ciência da Computação na Universidade Paulista (UNIP) 
 - Sou orientado a resultados, com habilidades avançadas em **resolução de problemas** e uma abordagem prática e colaborativa para o desenvolvimento de software.
 - Sempre em busca de **aprendizado contínuo** e de novas oportunidades para aplicar e expandir meus conhecimentos.
 
+## 📊 Minhas Habilidades
+![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,sql&theme=light)
+
 ## 📫 Contato
 
-- **LinkedIn**: [Higor Pereira dos Santos](https://www.linkedin.com/in/higor-pereira-761081200/)
-- **E-mail**: higor.pereira368@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-pereira-761081200/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.pereira368@gmail.com)
 
 
