@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🧑‍💻 Higor Pereira dos Santos - Desenvolvedor Full-Stack
 
-<!--
-**HigorPereira10/HigorPereira10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante de Ciência da Computação na Universidade Paulista (UNIP) com uma paixão por tecnologia e desenvolvimento de software. Tenho experiência sólida em **desenvolvimento web**, tanto no front-end quanto no back-end, utilizando uma variedade de tecnologias e linguagens de programação.
 
-Here are some ideas to get you started:
+## 💻 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End**: Especialista em criar interfaces dinâmicas e responsivas usando **HTML, CSS, Bootstrap** e **JavaScript**.
+- **Back-End**: Proficiente em **Python** e **Java** para a integração de soluções web com bancos de dados **SQL**.
+- **Metodologias**: Aplicação de práticas de **desenvolvimento ágil** e princípios de design em projetos acadêmicos e pessoais.
+
+## 🎯 Sobre Mim
+
+- Sou orientado a resultados, com habilidades avançadas em **resolução de problemas** e uma abordagem prática e colaborativa para o desenvolvimento de software.
+- Sempre em busca de **aprendizado contínuo** e de novas oportunidades para aplicar e expandir meus conhecimentos.
+
+## 📫 Contato
+
+- **LinkedIn**: [Higor Pereira dos Santos](https://www.linkedin.com/in/higor-pereira-761081200/)
+- **E-mail**: higor.pereira368@gmail.com
+
+
