@@ -14,7 +14,7 @@ Olá! Sou estudante de Ciência da Computação na Universidade Paulista (UNIP) 
 - Sempre em busca de **aprendizado contínuo** e de novas oportunidades para aplicar e expandir meus conhecimentos.
 
 ## 📊 Minhas Habilidades
-![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,sql,mysql&theme=light)
+![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,mysql&theme=light)
 
 
 
