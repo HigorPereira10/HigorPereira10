@@ -8,10 +8,6 @@ Olá! Sou estudante de Ciência da Computação na Universidade Paulista (UNIP) 
 - **Back-End**: Proficiente em **Python** e **Java** para a integração de soluções web com bancos de dados **SQL**.
 - **Metodologias**: Aplicação de práticas de **desenvolvimento ágil** e princípios de design em projetos acadêmicos e pessoais.
 
-## 🎯 Sobre Mim
-
-- Sou orientado a resultados, com habilidades avançadas em **resolução de problemas** e uma abordagem prática e colaborativa para o desenvolvimento de software.
-- Sempre em busca de **aprendizado contínuo** e de novas oportunidades para aplicar e expandir meus conhecimentos.
 
 ## 📊 Minhas Habilidades
 ![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,mysql&theme=light)
