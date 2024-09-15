@@ -12,7 +12,7 @@ Olá! Sou estudante de Ciência da Computação na Universidade Paulista (UNIP) 
 - **Metodologias Ágeis**: Aplicação de práticas ágeis para o desenvolvimento eficiente de projetos.
 
 ## 📊 Minhas Habilidades
-![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,mysql,github,figma&theme=light)
+![Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,java,mysql,github&theme=light)
 
 ## 📫 Contato
 
