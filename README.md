@@ -1,4 +1,4 @@
-# 🧑‍💻 Higor Pereira dos Santos - Desenvolvedor Full-Stack e Estudante de Ciência da Computação
+# 🧑‍💻 Higor Pereira dos Santos - Desenvolvedor e Estudante de Ciência da Computação
 
 Olá! Meu nome é Higor e sou estudante de Ciência da Computação na Universidade Paulista (UNIP). Tenho interesse em desenvolvimento de software, criação de interfaces desktop e integração com APIs, além de estar explorando Inteligência Artificial, Visão Computacional e análise de dados conforme avanço nos meus estudos.
 
