@@ -1,9 +1,9 @@
 # Olá, sou o Higor Pereira! 👋
 ### Estudante de Ciência da Computação & Entusiasta de Dados
 
-🎓 **Graduando em Ciência da Computação na UNIP**
-
 Meu foco é unir o desenvolvimento de software com a inteligência de dados. Tenho experiência prática em criar aplicações Desktop (Java) e estou migrando meus estudos para Engenharia de Dados e Inteligência Artificial.
+
+🎓 **Graduando em Ciência da Computação na UNIP**
 
 🎯 **Objetivo:** Busco oportunidade de estágio em Desenvolvimento de Software ou Dados. Tenho flexibilidade para atuar tanto na criação de sistemas quanto em Business Intelligence, visando aplicar meus conhecimentos técnicos e evoluir profissionalmente.
 
