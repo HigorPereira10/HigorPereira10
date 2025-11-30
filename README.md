@@ -12,20 +12,22 @@ Meu foco é unir o desenvolvimento de software com a inteligência de dados. Ten
 
 ### 🛠️ Arsenal Tecnológico
 
-**Linguagens & Backend:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Linguagens & Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Dados & IA:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Dados & Análise**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Front-end & Interfaces:**
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Front-end & Ferramentas**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -33,11 +35,15 @@ Meu foco é unir o desenvolvimento de software com a inteligência de dados. Ten
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
-| **EcoVision Cerrado** | Python/IA | Detecção de vegetação e desmatamento usando imagens de satélite (Sentinel-2). |
-| **ClimaRede** | Java/API | Aplicação desktop para consulta climática em tempo real consumindo APIs REST. |
-| **Gerenciador de Estoque** | Java/SQL | Sistema completo de gestão de produtos com interface gráfica e banco de dados. |
-
+| [**EcoVision Cerrado**](https://github.com/HigorPereira10/ecovision-cerrado) | Python/IA | Detecção de vegetação e desmatamento usando imagens de satélite (Sentinel-2). |
+| [**ClimaRede**](https://github.com/HigorPereira10/ClimaRede) | Java/API | Aplicação desktop para consulta climática em tempo real consumindo APIs REST. |
+| [**Gerenciador de Estoque**](https://github.com/HigorPereira10/GerenciadorDeProdutos) | Java/SQL | Sistema completo de gestão de produtos com interface gráfica e banco de dados. |
 ---
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark"/>
+</div>
 
 ### 📫 Contato
 
