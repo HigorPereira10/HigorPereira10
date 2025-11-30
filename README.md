@@ -1,7 +1,11 @@
 # Olá, sou o Higor Pereira! 👋
 ### Estudante de Ciência da Computação & Entusiasta de Dados
 
+🎓 **Graduando em Ciência da Computação na UNIP**
+
 Meu foco é unir o desenvolvimento de software com a inteligência de dados. Tenho experiência prática em criar aplicações Desktop (Java) e estou migrando meus estudos para Engenharia de Dados e Inteligência Artificial.
+
+🎯 **Objetivo:** Busco oportunidade de estágio em Desenvolvimento de Software ou Dados. Tenho flexibilidade para atuar tanto na criação de sistemas quanto em Business Intelligence, visando aplicar meus conhecimentos técnicos e evoluir profissionalmente.
 
 🚀 **O que estou estudando agora:**
 - Visão Computacional e IA aplicada (Python)
@@ -39,11 +43,6 @@ Meu foco é unir o desenvolvimento de software com a inteligência de dados. Ten
 | [**ClimaRede**](https://github.com/HigorPereira10/ClimaRede) | Java/API | Aplicação desktop para consulta climática em tempo real consumindo APIs REST. |
 | [**Gerenciador de Estoque**](https://github.com/HigorPereira10/GerenciadorDeProdutos) | Java/SQL | Sistema completo de gestão de produtos com interface gráfica e banco de dados. |
 ---
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark"/>
-</div>
 
 ### 📫 Contato
 
