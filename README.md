@@ -50,3 +50,4 @@ Estou sempre aberto a novas conexões e oportunidades na área de tecnologia e d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/higor-pereira-761081200)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.pereira368@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://higorpereira10.github.io)
