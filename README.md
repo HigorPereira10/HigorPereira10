@@ -48,6 +48,6 @@ Meu foco é unir o desenvolvimento de software com a inteligência de dados. Ten
 
 Estou sempre aberto a novas conexões e oportunidades na área de tecnologia e dados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/higor-pereira-761081200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/higor-pereira10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.pereira368@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://higorpereira10.github.io)
