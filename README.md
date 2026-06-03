@@ -1,4 +1,4 @@
-# Olá, sou o Higor Pereira! 👋
+# Olá, sou o Higor Pereira!  👨🏾‍💻
 ### Estudante de Ciência da Computação | Foco em RPA, Dados e IA
 
 Sou apaixonado por resolver problemas reais usando código. Atualmente, trabalho desenvolvendo automações (RPA) para transformar processos manuais demorados em rotinas eficientes, gerando dezenas de horas de economia mensal em operações de backoffice.
