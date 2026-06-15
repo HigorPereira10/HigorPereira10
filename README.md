@@ -39,7 +39,7 @@ Em paralelo, estou direcionando minha carreira e meus estudos para o universo de
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
 | **Automação de Processos (RPA)**<br>*(Repositórios Privados)* | Python / GAS | Desenvolvimento de robôs para consumo de APIs, automação de consultas fiscais e gestão de arquivos em nuvem para rotinas corporativas. |
-| [**EcoVision Cerrado**](https://github.com/HigorPereira10/ecovision-cerrado) | Python/IA | Detecção de vegetação e desmatamento utilizando imagens de satélite (Sentinel-2) e modelos de Visão Computacional. |
+| [**SatVision Cerrado**](https://github.com/HigorPereira10/satvision-cerrado) | Python/IA | Detecção de vegetação e desmatamento utilizando imagens de satélite (Sentinel-2) e modelos de Visão Computacional. |
 | [**ClimaRede**](https://github.com/HigorPereira10/ClimaRede) | Java/API | Aplicação desktop para consulta climática em tempo real consumindo APIs REST. |
 
 ---
