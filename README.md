@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação (7º semestre) | Automação, Dados & IA
 
-Estagiário na área de Automação e IA, onde desenvolvo robôs em Python para consultas fiscais, integração com ERPs contábeis e outras rotinas de backoffice — gerando dezenas de horas de economia mensal em processos que antes eram manuais.
+Estagiário na área de Automação e IA, onde desenvolvo robôs em Python para consultas fiscais, integração com ERPs contábeis e outras rotinas de backoffice, gerando dezenas de horas de economia mensal em processos que antes eram manuais.
 
 Estou direcionando carreira e estudos para Engenharia de Dados, BI e Inteligência Artificial, e busco oportunidades como **júnior, trainee ou analista** para aplicar essa experiência prática em automação e continuar evoluindo na área de dados.
 
