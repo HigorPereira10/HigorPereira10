@@ -1,23 +1,29 @@
+<div align="center">
+
 # Olá, sou o Higor Pereira! 👋
 
 ### Estudante de Ciência da Computação (7º semestre) | Automação, Dados & IA
+
+</div>
 
 Estagiário na área de Automação e IA, onde desenvolvo robôs em Python para consultas fiscais, integração com ERPs contábeis e outras rotinas de backoffice, gerando dezenas de horas de economia mensal em processos que antes eram manuais.
 
 Estou direcionando carreira e estudos para Engenharia de Dados, BI e Inteligência Artificial, e busco oportunidades como **júnior, trainee ou analista** para aplicar essa experiência prática em automação e continuar evoluindo na área de dados.
 
----
+<br>
 
-### 🚀 O que faço no dia a dia
+## 🚀 O que faço no dia a dia
 
-- **Automação (RPA):** robôs e scripts em Python para interagir com sistemas, integrar APIs fiscais/contábeis e eliminar tarefas manuais repetitivas.
-- **Dados & BI:** estruturação, análise de dados e dashboards interativos para apoiar decisão (Power BI, SQL, Pandas).
-- **Inteligência Artificial:** estudo e aplicação de modelos de IA/ML na resolução de problemas e geração de insights.
-- **Integração de Sistemas:** consumo de APIs e desenvolvimento de soluções para conectar plataformas diferentes.
+- 🤖 **Automação (RPA):** robôs e scripts em Python para interagir com sistemas, integrar APIs fiscais/contábeis e eliminar tarefas manuais repetitivas.
+- 📊 **Dados & BI:** estruturação, análise de dados e dashboards interativos para apoiar decisão (Power BI, SQL, Pandas).
+- 🧠 **Inteligência Artificial:** estudo e aplicação de modelos de IA/ML na resolução de problemas e geração de insights.
+- 🔗 **Integração de Sistemas:** consumo de APIs e desenvolvimento de soluções para conectar plataformas diferentes.
 
----
+<br>
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
 
 **Automação & Desenvolvimento**
 
@@ -40,9 +46,11 @@ Estou direcionando carreira e estudos para Engenharia de Dados, BI e Inteligênc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+</div>
 
-### 🏆 Projetos em Destaque
+<br>
+
+## 🏆 Projetos em Destaque
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
@@ -51,21 +59,27 @@ Estou direcionando carreira e estudos para Engenharia de Dados, BI e Inteligênc
 | [**SatVision Cerrado**](https://github.com/HigorPereira10/satvision-cerrado) | Python / IA | Detecção de vegetação e desmatamento no bioma Cerrado com imagens de satélite (Sentinel-2) e visão computacional. |
 | [**PyScale-LCI**](https://github.com/HigorPereira10/PyScale-LCI) | Python | Sistema de cálculo de Emergia (Análise Emergética) inspirado no SCALE, aplicado a Engenharia de Software. |
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide=prs,stars&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide=prs,stars&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark&hide_border=true" />
 
-### 📫 Contato
+</div>
+
+<br>
+
+## 📫 Contato
+
+<div align="center">
 
 Sempre aberto a bater um papo sobre tecnologia, automação e oportunidades na área!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-pereira10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.pereira368@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Meu_Portfólio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://higorpereira10.github.io)
+
+</div>
