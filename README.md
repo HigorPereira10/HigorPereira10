@@ -49,15 +49,15 @@ Estou direcionando carreira e estudos para Engenharia de Dados, BI e Inteligênc
 | [**Clareza Contábil**](https://github.com/HigorPereira10/Clareza_Contabil) | Python / Streamlit | App para escritórios de contabilidade: consolida Contas a Receber/Pagar de múltiplos ERPs (Conta Azul, Omie, Bling, Nibo, Asaas ou CSV), com fluxo de caixa projetado e relatórios financeiros. |
 | [**Regime Tributário**](https://github.com/HigorPereira10/Regime_Tributario) | Python | Consulta em lote o regime tributário (Simples Nacional, MEI ou Lucro) de uma lista de CNPJs a partir de planilha, usando a BrasilAPI. |
 | [**SatVision Cerrado**](https://github.com/HigorPereira10/satvision-cerrado) | Python / IA | Detecção de vegetação e desmatamento no bioma Cerrado com imagens de satélite (Sentinel-2) e visão computacional. |
-| [**Gerenciador de Estoque**](https://github.com/HigorPereira10/GerenciadorDeEstoque) | Java 21 / JavaFX | Aplicação desktop para controle de estoque, com persistência em SQLite e arquitetura em camadas (model/repository/service/ui). |
+| [**PyScale-LCI**](https://github.com/HigorPereira10/PyScale-LCI) | Python | Sistema de cálculo de Emergia (Análise Emergética) inspirado no SCALE, aplicado a Engenharia de Software. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HigorPereira10&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide=prs,stars&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
