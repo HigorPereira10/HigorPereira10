@@ -20,7 +20,7 @@ No estágio, desenvolvo automações e integrações que tiram trabalho manual d
 
 | Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
-| [**UnePDF**](https://github.com/HigorPereira10/UnePDF) | Suíte de ferramentas PDF para Windows, 100% offline: unir, dividir, OCR, XML de NF-e para DANFE e assinatura com certificado A1. Instalador nas [releases](https://github.com/HigorPereira10/UnePDF/releases/latest). | Python, PySide6, pyHanko, pytest, GitHub Actions |
+| [**UnePDF**](https://github.com/HigorPereira10/UnePDF)<br>[![testes](https://img.shields.io/github/actions/workflow/status/HigorPereira10/UnePDF/testes.yml?style=flat-square&label=testes)](https://github.com/HigorPereira10/UnePDF/actions/workflows/testes.yml)<br>[![versão](https://img.shields.io/github/v/release/HigorPereira10/UnePDF?style=flat-square&label=vers%C3%A3o&color=10B981)](https://github.com/HigorPereira10/UnePDF/releases/latest) | Suíte de ferramentas PDF para Windows, 100% offline: unir, dividir, OCR, XML de NF-e para DANFE e assinatura com certificado A1. Instalador nas [releases](https://github.com/HigorPereira10/UnePDF/releases/latest). | Python, PySide6, pyHanko, pytest, GitHub Actions |
 | [**Clareza Contábil**](https://github.com/HigorPereira10/Clareza_Contabil) | Junta contas a receber e a pagar de vários ERPs (Conta Azul, Omie, Bling, Nibo, Asaas ou CSV), projeta o fluxo de caixa e gera relatório em Excel. Multi-empresa. | Python, Streamlit, Pandas, pytest |
 | [**Regime Tributário**](https://github.com/HigorPereira10/Regime_Tributario) | Consulta em lote o regime tributário de uma lista de CNPJs usando a BrasilAPI. Roda na [web](https://regimetributario.streamlit.app/) ou como executável. | Python, Streamlit, httpx, PyInstaller |
 | [**SatVision Cerrado**](https://github.com/HigorPereira10/SatVision-Cerrado) | Detecção de vegetação e desmatamento no Cerrado com imagens Sentinel-2 e modelo ResNet18. | Python, PyTorch, OpenCV, Streamlit |
@@ -64,7 +64,11 @@ O código fica em repositórios privados porque lida com dados de clientes.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api?username=HigorPereira10&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide=prs,stars&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=dark&hide_border=true" />
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HigorPereira10&theme=github_dark" alt="Contribuições no último ano" />
+
+<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api?username=HigorPereira10&show_icons=true&theme=github_dark&title_color=10B981&icon_color=10B981&hide_border=true&hide_rank=true&hide=stars,prs&include_all_commits=true&count_private=true&locale=pt-br" alt="Commits, issues e contribuições" />
+<img height="165" src="https://github-readme-stats-five-theta-73.vercel.app/api/top-langs/?username=HigorPereira10&layout=compact&theme=github_dark&title_color=10B981&hide_border=true&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=HigorPereira10&locale=pt_BR&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" alt="Sequência de contribuições" />
 
 </div>
