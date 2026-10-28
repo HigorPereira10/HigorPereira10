@@ -2,19 +2,19 @@
 
 # Higor Pereira
 
-**Desenvolvedor Python · automação, integrações e dados**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=520&lines=Desenvolvedor+Python;Automa%C3%A7%C3%A3o+e+integra%C3%A7%C3%B5es;Dados+e+intelig%C3%AAncia+artificial" alt="Desenvolvedor Python · Automação e integrações · Dados e inteligência artificial" />
 
 Estagiário de desenvolvimento na [L&A Contabilidade](https://github.com/L-A-Contabilidade) · Ciência da Computação na UNIP (7º semestre)
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://higorpereira10.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badgehttps://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whitelogo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/higor-pereira10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/higor-pereira10)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.pereira368@gmail.com)
 
 </div>
 
 ## Sobre mim
 
-No estágio, escrevo robôs e integrações que tiram trabalho manual de um escritório de contabilidade: consultas fiscais em lote, leitura de boletos e notas, envio de obrigações e avisos automáticos para clientes. Fora dele, estudo dados e IA e mantenho o [UnePDF](https://github.com/HigorPereira10/UnePDF), uma ferramenta open source que nasceu de uma necessidade do escritório.
+No estágio, desenvolvo automações e integrações que tiram trabalho manual de um escritório de contabilidade: consultas fiscais em lote, leitura de boletos e notas, envio de obrigações e avisos automáticos para clientes. Fora dele, estudo dados e IA e mantenho o [UnePDF](https://github.com/HigorPereira10/UnePDF), uma ferramenta open source que nasceu de uma necessidade do escritório.
 
 ## Projetos em destaque
 
@@ -38,24 +38,27 @@ O código fica em repositórios privados porque lida com dados de clientes.
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-<br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+<div align="center">
 
-**Estudando agora:** inteligência artificial, ciência e engenharia de dados, e Amazon S3 e outras tecnologias de nuvem muito usadas em produção.
+**No dia a dia**
+
+<img src="https://skillicons.dev/icons?i=py,java,cs,js,mysql,sqlite,git,githubactions,vscode" alt="Python, Java, C#, JavaScript, MySQL, SQLite, Git, GitHub Actions, VS Code" />
+
+<br>
+
+**Em projetos de dados, IA e IoT**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,fastapi,postgres,supabase,raspberrypi,react" alt="PyTorch, OpenCV, TensorFlow, FastAPI, PostgreSQL, Supabase, Raspberry Pi, React Native" />
+
+<br>
+
+**Estudando agora**
+
+<img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS, Docker" />
+
+<sub>Também uso Pandas, Streamlit, PySide6, pytest, Google Apps Script e Power BI.<br>Nos estudos: inteligência artificial, ciência e engenharia de dados e serviços de nuvem usados em produção, como o Amazon S3.</sub>
+
+</div>
 
 ## Estatísticas
 
